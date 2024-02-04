@@ -34,8 +34,8 @@ Read more about [<mark style="color:red;">SSH Penetration Testing</mark>](https:
 
 {% embed url="https://www.poplabsec.com/ssh-penetration-testing/" %}
 
-{% content-ref url="http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/PQdYFP9mCxTDzSTiV7Ye/" %}
-[SSH Penetration Testing](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/PQdYFP9mCxTDzSTiV7Ye/)
+{% content-ref url="https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/PQdYFP9mCxTDzSTiV7Ye/" %}
+[SSH Penetration Testing](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/PQdYFP9mCxTDzSTiV7Ye/)
 {% endcontent-ref %}
 
 ### FTP Service
@@ -54,22 +54,22 @@ FTP is nice to be brute-forced if you have a valid user. If you want to learn mo
 
 SMB is the most common entry point it has tons of CVEs and most of the time is poorly configured, Check my article about [<mark style="color:red;">SMB Penetration testing</mark>](https://www.poplabsec.com/smb-penetration-testing/) and learn how o breach it!
 
-{% content-ref url="http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/97xPYP5fBC1HUB4v6ctp/" %}
-[SMB Penetration Testing](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/97xPYP5fBC1HUB4v6ctp/)
+{% content-ref url="https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/97xPYP5fBC1HUB4v6ctp/" %}
+[SMB Penetration Testing](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/97xPYP5fBC1HUB4v6ctp/)
 {% endcontent-ref %}
 
 {% embed url="https://www.poplabsec.com/smb-penetration-testing/" %}
 
 ### DNS Service
 
-{% content-ref url="http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/OpKVvhvkBWVTweXMg94K/" %}
-[DNS Penetration Testing](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/OpKVvhvkBWVTweXMg94K/)
+{% content-ref url="https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/OpKVvhvkBWVTweXMg94K/" %}
+[DNS Penetration Testing](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/OpKVvhvkBWVTweXMg94K/)
 {% endcontent-ref %}
 
 ### MySQL Service
 
-{% content-ref url="http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/UnV09MwO7ZHfBNqQOCue/" %}
-[MySQL Penetration Testing](http://127.0.0.1:5000/o/at4Z0L3dsguKUukMngZV/s/UnV09MwO7ZHfBNqQOCue/)
+{% content-ref url="https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/UnV09MwO7ZHfBNqQOCue/" %}
+[MySQL Penetration Testing](https://app.gitbook.com/o/at4Z0L3dsguKUukMngZV/s/UnV09MwO7ZHfBNqQOCue/)
 {% endcontent-ref %}
 
 ### Web Servers

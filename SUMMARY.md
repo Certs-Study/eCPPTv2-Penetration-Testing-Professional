@@ -18,7 +18,7 @@
 
 ## Reports
 
-* [PwnDoc](reports/pwndoc.md)
+* [PwnDoc Documentation](reports/pwndoc-documentation.md)
 * [🟢 Templates](reports/templates.md)
 
 ## Methodology
