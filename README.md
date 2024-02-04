@@ -42,3 +42,16 @@ Join the community on Discord and engage with security professionals like you.
 * [Windows Privilege Escalation Fundamentals](https://www.poplabsec.com/windows-privilege-escalation-fundamentals/)
 * [Active Directory Attacks: Free Guide](https://www.poplabsec.com/active-directory-attacks/)
 * [Active Directory: Enumerate Group Policy Objects](https://www.poplabsec.com/active-directory-enumerate-group-policy-objects/)
+
+🛡️ **Join Our Exclusive Cyber Security Discord Community!** 🌐
+
+Attention Cyber Security Practitioners, Red Teamers, and Networking Experts! 🌐✨
+
+Are you passionate about fortifying critical infrastructure, securing telecommunications, and defending corporate networks? Join our Discord community dedicated to fostering collaboration, knowledge sharing, and networking among cybersecurity professionals!
+
+**Why Join Us?**
+
+1. **Expert Insight:** Engage with like-minded professionals and gain insights into the latest trends, threats, and solutions in the cybersecurity landscape.
+2. **Knowledge Exchange:** Share your expertise, discuss industry best practices, and learn from others' experiences to enhance your skills.
+3. **Networking Opportunities:** Connect with professionals working in critical infrastructure, telecommunications, and Red Team infrastructures. Build valuable relationships that can contribute to your professional growth.
+4. **Resource Hub:** Access a wealth of resources, including articles, whitepapers, and tools, curated specifically for cybersecurity experts.
